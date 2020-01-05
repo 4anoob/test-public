@@ -22,9 +22,6 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 #EXTVLCOPT:network-caching=1000
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/manorama_news_central.png",Group-title="South India",Manorama News
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/manorama_news_central.png",Group-title="South India",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/manorama_news_central.png",Group-title="South India",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/Stream(01)/index.m3u8
@@ -210,8 +207,10 @@ http://live.finetv.biz:2086/Yupp-SunMusic/index.m3u8
 #EXTINF:-1, Group-title="South India",Sun Music HD
 http://95.216.101.151:8081/master_leno/sunmusichd/chunks.m3u8
 
-#EXTINF:-1, Group-title="South India",Vijay TV HD
+#EXTINF:-1, Group-title="South India",Star Vijay
 http://95.216.101.151:8081/master_leno/starvijay/playlist.m3u8
+#EXTINF:-1, Group-title="South India",Star Vijay
+http://vod.apkland.live/ylive/vij/index.m3u8
 #EXTINF:-1, Group-title="South India",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 
@@ -307,7 +306,9 @@ http://150.242.21.2/gosree.m3u8?bandwidth=956&playlistlength=25&shift=0
 #EXTINF:-1,Group-title="South India",Channel 4
 #EXTVLCOPT:network-caching=1000
 http://em4qj658dyvg-hls-live.wmncdn.net/Streamlive/7802c1f5d6b01530144c9ea453248e57.sdp/index.m3u8
-
+#EXTINF:-1,Group-title="South India",Darsana
+#EXTVLCOPT:network-caching=1000
+http://103.199.160.85/Content/darsana/Live/Channel(Darsana)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.asianetmobiletv.com/channels/ACV.png",Group-title="South India",ACV
 https://acv.asianetmobiletvplus.com/channels/8f8e72769cb3e3a6e27c220e1e3887b8.smil/index.m3u8
@@ -1014,7 +1015,7 @@ https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8
 #EXTVLCOPT:network-caching=1000
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,Group-title="English HD",ANI PLUS
-http://210.210.155.35/uq2663/h/h09/index.m3u8 //http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+http://210.210.155.35/uq2663/h/h09/index.m3u8
 #EXTINF:-1,Group-title="English HD",NONSTOP ANIME
 http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
 #EXTINF:-1,Group-title="English HD",ANI PLUS INDO
